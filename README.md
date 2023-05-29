@@ -1,4 +1,4 @@
-# Data Engineering Group Project: Job Description Analysis
+# [ INPROGRESS ] Data Engineering Group Project: Job Description Analysis
 Group members: 
 - Kevin Lasenberry - Data Analysis and Visualizations - [github.com/klasenberry99](https://github.com/klasenberry99)
 - Michael Schmidt - Project lead | Infrastructure - [github.com/mikewschmidt](https://github.com/mikewschmidt)
