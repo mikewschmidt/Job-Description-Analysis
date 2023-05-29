@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T04:18:17.815Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.5" etag="77uuvurPrnBB5DSceKuB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T04:24:37.467Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vVFYAlJ8VAfpS0ytWqzl" version="21.3.5" type="github">
   <diagram name="Page-1" id="rTmU0gyJbu6paWlbTUlL">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fkUC8mcvuKQt2Qb_8Sz2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fkUC8mcvuKQt2Qb_8Sz2-1" target="fkUC8mcvuKQt2Qb_8Sz2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkUC8mcvuKQt2Qb_8Sz2-1" value="CareerJet API" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="70" height="64.62" as="geometry" />
+        </mxCell>
+        <mxCell id="fkUC8mcvuKQt2Qb_8Sz2-2" value="AWS Lambda" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="165.81" width="76.5" height="93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
